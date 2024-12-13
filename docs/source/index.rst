@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+007WIN - THIÊN ĐƯỜNG GIẢI TRÍ CÁ CƯỢC
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`007Win <https://007win.ad/>`_ đang là điểm đến hấp dẫn cho các tín đồ casino trực tuyến, với hàng loạt sòng bài uy tín thu hút hàng nghìn cược thủ mỗi ngày. Được trang bị giao diện mượt mà, bảo mật tối ưu và khuyến mãi liên tục, 007Win mang lại trải nghiệm cá cược an toàn và đầy hứng khởi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Website: https://007win.ad/
 
-.. note::
+Email: 007winad@gmail.com
 
-   This project is under active development.
+Số Điện Thoại: (+84) 359846219
 
-Contents
---------
+Địa Chỉ: 36 P. Tô Vĩnh Diện, Khương Trung, Thanh Xuân, Hà Nội, Việt Nam
 
-.. toctree::
-
-   usage
-   api
+Hashtag: #007win #nha_cai_007win #007win_ad
